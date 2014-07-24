@@ -1,0 +1,3 @@
+Com este código você pode testar a configurção do keypad.
+Faça o upload do código para o Arduino.
+Abra o serial monitor na IDE do Arduino e digite algo no keypad, veja se as teclas estão corretas.

@@ -1,0 +1,1 @@
+Copie a pasta Keypad para o diretório arduino/libraries/

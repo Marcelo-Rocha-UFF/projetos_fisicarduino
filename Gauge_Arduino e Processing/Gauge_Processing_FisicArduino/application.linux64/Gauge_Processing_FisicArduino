@@ -1,0 +1,4 @@
+#!/bin/sh
+
+APPDIR=$(dirname "$0")
+java  -Djava.library.path="$APPDIR" -cp "$APPDIR/lib/Gauge_Processing_FisicArduino.jar:$APPDIR/lib/core.jar:$APPDIR/lib/RXTXcomm.jar:$APPDIR/lib/serial.jar" Gauge_Processing_FisicArduino
