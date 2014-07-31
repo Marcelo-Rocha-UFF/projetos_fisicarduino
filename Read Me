@@ -1,1 +1,13 @@
 Projetos do site físicarduino.com
+
+Todos os fontes python foram feitos usando o python 2.7
+
+Todos os códigos que se comunicam via porta serial com o Arduino requerem
+a instalação da lib pyserial compativel com a versão do python.
+
+Os códigos são feitos para rodar em linux.
+
+Para Windows
+-------------
+* Não há problemas de compatibilidade usando Tkinter
+
